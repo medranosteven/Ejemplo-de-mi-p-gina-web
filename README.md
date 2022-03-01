@@ -3,7 +3,7 @@ estudiante de ingenieria en sistemas informáticos
 
 Universidad de El Salvador FMO
 
-pasatiempos: @octocat 👍trabajar, @octocat 👍jugar, @octocat 👍estudiar, @octocat 👍leer, @octocat 👍hacer ejercicio. 
+pasatiempos:👍trabajar,👍jugar,👍estudiar,👍leer,👍hacer ejercicio. 
 
 Algunos cursos obtenidos son: computación, manejo de Excel, Word power point y habilitación de trabajo y emprendimientos 
 
