@@ -1,2 +1,2 @@
-# Ejemplo-de-mi-p-gina-web
-Como hacer una página web en gihub + html
+# Ejemplo de página web
+Como hacer una página https://medranosteven.github.io/Ejemplo-de-mi-pagina-web/
