@@ -9,7 +9,8 @@ Algunos cursos obtenidos son: computación, manejo de Excel, Word power point y 
 
 **Información de contacto:**
 
-Emial: [https://mc18055@ues.edu.sv/]
+Emial: [mc18055@ues.edu.sv] 
+
 
 *San Miguel*
 *El Salvador*
