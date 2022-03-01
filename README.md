@@ -9,10 +9,10 @@ Algunos cursos obtenidos son: computación, manejo de Excel, Word power point y 
 
 **Información de contacto:**
 
-Emial [clic aquí](https://mc18055@ues.edu.sv/)
+Emial: https://mc18055@ues.edu.sv/
 
 *San Miguel*
 *El Salvador*
 *503*
 
-Mi página [clic aqui](https://medranosteven.github.io/Ejemplo-de-mi-pagina-web/) 
+Mi página: https://medranosteven.github.io/Ejemplo-de-mi-pagina-web/
